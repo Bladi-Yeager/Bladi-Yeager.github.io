@@ -1,23 +1,10 @@
 baseURL = "https://Bladi-Yeager.github.io/"
-locale = "es-419"
-<<<<<<< HEAD
 title = "Blog de Bladi"
 theme = "flat"
 
 [author]
   name = "Bladi Yeager"
-  email = "tu@email.com"
+  email = "tucorreo@gmail.com"
 
 [params]
-  description = "Blog sobre Linux y tecnología"
-=======
-title = "Mi Blog"
-theme = "flat"
-
-[author]
-  name = "SORIA"
-  email = "bladimirsoriahinojosa8@email.com"
-
-[params]
-  description = "Mi blog personal"
->>>>>>> 0af344da218f040b2e983c5517479f0e144511e4
+  description = "Blog sobre Linux y tecnologia"
