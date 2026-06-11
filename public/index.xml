@@ -1,0 +1,39 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Bladi | Blog de Bladi</title>
+    <link>http://localhost:1313/</link>
+    <description>Blog sobre Linux y tecnología</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Studio Code - Mi editor favorito</title>
+      <link>http://localhost:1313/posts/herramienta/</link>
+      <pubDate>Mon, 08 Jun 2026 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/herramienta/</guid>
+      <description>&lt;p&gt;## ¿Qué es Visual Studio Code?&lt;/p&gt;
+&lt;p&gt;Visual Studio Code es un editor de código gratuito creado por Microsoft. Es uno de los editores más populares del mundo entre programadores y desarrolladores web.&lt;/p&gt;
+&lt;p&gt;## ¿Por qué me gusta?&lt;/p&gt;
+&lt;p&gt;- Es gratuito y de código abierto&lt;/p&gt;
+&lt;p&gt;- Tiene miles de extensiones para todo tipo de lenguajes&lt;/p&gt;
+&lt;p&gt;- Es muy rápido y ligero&lt;/p&gt;
+&lt;p&gt;- Tiene terminal integrada y control de versiones con Git&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducción a Linux</title>
+      <link>http://localhost:1313/posts/linux/</link>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/linux/</guid>
+      <description>&lt;p&gt;## ¿Qué es Linux?&lt;/p&gt;
+&lt;p&gt;Linux es un sistema operativo de código abierto creado por Linus Torvalds en 1991. A diferencia de Windows, Linux es gratuito y cualquier persona puede ver y modificar su código.&lt;/p&gt;
+&lt;p&gt;## ¿Por qué usar Linux?&lt;/p&gt;
+&lt;p&gt;- Es gratuito y de código abierto&lt;/p&gt;
+&lt;p&gt;- Es muy seguro y estable&lt;/p&gt;
+&lt;p&gt;- Consume menos recursos que Windows&lt;/p&gt;
+&lt;p&gt;- Es muy usado en servidores y programación&lt;/p&gt;
+&lt;p&gt;## Distribuciones populares&lt;/p&gt;
+&lt;p&gt;Las distribuciones más conocidas son Ubuntu, Debian, Fedora y Arch Linux. Cada una tiene sus características pero todas usan el mismo núcleo de Linux.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

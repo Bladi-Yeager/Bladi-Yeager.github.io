@@ -1,0 +1,11 @@
+baseURL = "https://Bladi-Yeager.github.io/"
+locale = "es-419"
+title = "Blog de Bladi"
+theme = "flat"
+
+[author]
+  name = "Bladi Yeager"
+  email = "tu@email.com"
+
+[params]
+  description = "Blog sobre Linux y tecnología"
