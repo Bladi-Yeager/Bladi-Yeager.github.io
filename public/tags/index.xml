@@ -1,11 +1,20 @@
 &lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags | Blog de Bladi</title>
     <link>http://localhost:1313/tags/</link>
     <description>Blog sobre Linux y tecnología</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <title>Tags | Mi Blog</title>
+    <link>https://Bladi-Yeager.github.io/tags/</link>
+    <description>Mi blog personal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://Bladi-Yeager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 0af344da218f040b2e983c5517479f0e144511e4
   </channel>
 </rss>
