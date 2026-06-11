@@ -4,7 +4,7 @@ theme = "flat"
 
 [author]
   name = "Bladi Yeager"
-  email = "tucorreo@gmail.com"
 
 [params]
   description = "Blog sobre Linux y tecnologia"
+  customCSS = ["custom.css"]

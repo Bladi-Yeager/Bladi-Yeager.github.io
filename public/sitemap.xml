@@ -3,7 +3,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-08T09:00:00-04:00</lastmod>
   </url><url>
@@ -13,25 +12,14 @@
     <loc>http://localhost:1313/posts/herramienta/</loc>
     <lastmod>2026-06-08T09:00:00-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/mi-primer-post/</loc>
+    <lastmod>2026-06-08T08:32:10-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/linux/</loc>
     <lastmod>2026-06-08T08:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-=======
-    <loc>https://Bladi-Yeager.github.io/</loc>
-    <lastmod>2026-06-08T08:32:10-04:00</lastmod>
-  </url><url>
-    <loc>https://Bladi-Yeager.github.io/posts/mi-primer-post/</loc>
-    <lastmod>2026-06-08T08:32:10-04:00</lastmod>
-  </url><url>
-    <loc>https://Bladi-Yeager.github.io/posts/</loc>
-    <lastmod>2026-06-08T08:32:10-04:00</lastmod>
-  </url><url>
-    <loc>https://Bladi-Yeager.github.io/categories/</loc>
-  </url><url>
-    <loc>https://Bladi-Yeager.github.io/tags/</loc>
->>>>>>> 0af344da218f040b2e983c5517479f0e144511e4
   </url>
 </urlset>
